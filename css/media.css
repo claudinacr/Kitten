@@ -1,0 +1,20 @@
+@media (min-width:550px) and (max-width: 800px) {
+    .columna {
+        background-image: url("../assets/images/dawn.png");
+        background-size: cover;
+    }
+    .columna img {
+        content: url("../assets/images/kitten-small.png");
+    }
+}
+
+@media (max-width: 549px) {
+    .columna {
+        background-image: url("../assets/images/night.jpg");
+        background-size: cover;
+    }
+    .columna img {
+        content: url("../assets/images/kitten-large.png");
+        width: 70%;
+    }
+}

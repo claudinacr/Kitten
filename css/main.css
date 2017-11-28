@@ -1,0 +1,7 @@
+.columna {
+    background-image: url("../assets/images/sunny-day.jpg");
+    height: 700px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: -3%;
+}
